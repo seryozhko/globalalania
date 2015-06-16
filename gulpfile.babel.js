@@ -262,7 +262,7 @@ gulp.task('generate-service-worker', cb => {
 // Load custom tasks from the `tasks` directory
 // try { require('require-dir')('tasks'); } catch (err) { console.error(err); }
  
-gulp.task('deploy', function() {
+gulp.task('deploy',['default'], function() {
   return gulp.src('./dist/**/*')
     .pipe($.ghPages());
 });
