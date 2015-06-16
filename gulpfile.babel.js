@@ -112,7 +112,7 @@ gulp.task('styles', () => {
 // Concatenate and minify JavaScript
 gulp.task('scripts', () => {
   return gulp.src(['./app/scripts/main.js'])
-    .pipe($.concat('main.min.js'))
+    .pipe($.concat('main.js'))
     .pipe($.uglify({preserveComments: 'some'}))
     // Output files
     .pipe(gulp.dest('dist/scripts'))
