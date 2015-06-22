@@ -103,7 +103,7 @@ gulp.task('styles', () => {
     .pipe($.autoprefixer(AUTOPREFIXER_BROWSERS))
     .pipe(gulp.dest('.tmp'))
     // Concatenate and minify styles
-    .pipe($.if('*.css', $.csso()))
+    .pipe($.if('*.css', $.minifyCss()))
     .pipe($.sourcemaps.write())
     .pipe(gulp.dest('dist'))
     .pipe($.size({title: 'styles'}));
@@ -123,7 +123,7 @@ gulp.task('scripts', () => {
 gulp.task('html', () => {
   const assets = $.useref.assets({searchPath: '{.tmp,app}'});
 
-  return gulp.src('app/**/**/*.html')
+  return gulp.src('app/**/*.html')
     .pipe(assets)
     // Remove any unused CSS
     // Note: If not using the Style Guide, you can delete it from
@@ -141,7 +141,7 @@ gulp.task('html', () => {
 
     // Concatenate and minify styles
     // In case you are still using useref build blocks
-    .pipe($.if('*.css', $.csso()))
+    .pipe($.if('*.css', $.minifyCss()))
     .pipe(assets.restore())
     .pipe($.useref())
 
@@ -220,16 +220,6 @@ gulp.task('generate-service-worker', cb => {
   swPrecache({
     // Used to avoid cache conflicts when serving on localhost.
     cacheId: pkg.name || 'web-starter-kit',
-    // URLs that don't directly map to single static files can be defined here.
-    // If any of the files a URL depends on changes, then the URL's cache entry
-    // is invalidated and it will be refetched.
-    // Generally, URLs that depend on multiple files (such as layout templates)
-    // should list all the files; a change in any will invalidate the cache.
-    // In this case, './' is the top-level relative URL, and its response
-    // depends on the contents of the file 'dist/index.html'.
-    dynamicUrlToDependencies: {
-      './': [path.join(rootDir, 'index.html')]
-    },
     staticFileGlobs: [
       // Add/remove glob patterns to match your directory setup.
       `${rootDir}/fonts/**/*.woff`,
