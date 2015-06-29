@@ -1,0 +1,929 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"u",
+				"undefined"
+			],
+			[
+				"changes",
+				"changesList"
+			],
+			[
+				"cha",
+				"changesList"
+			],
+			[
+				"new",
+				"newBtn"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"post",
+				"postFields"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"site",
+				"siteName"
+			],
+			[
+				"j",
+				"json_decode"
+			],
+			[
+				"chan",
+				"changes"
+			],
+			[
+				"ADD",
+				"addClass"
+			],
+			[
+				"prod",
+				"prodRow"
+			],
+			[
+				"sites",
+				"sitesToShow"
+			],
+			[
+				"sugg",
+				"suggestions"
+			],
+			[
+				"pro",
+				"prod-list"
+			],
+			[
+				"price",
+				"priceList"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"produ",
+				"productField"
+			],
+			[
+				"par",
+				"parseInt"
+			],
+			[
+				"item",
+				"item"
+			],
+			[
+				"use",
+				"userMail"
+			],
+			[
+				"city",
+				"cityList"
+			],
+			[
+				"check",
+				"checkNewOrder"
+			],
+			[
+				"att",
+				"removeAttr"
+			],
+			[
+				"product",
+				"productForm"
+			],
+			[
+				"opt",
+				"option	Tag"
+			],
+			[
+				"name",
+				"nameEl"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"ca",
+				"categories"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"category",
+				"category_info"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"campa",
+				"campaignId"
+			],
+			[
+				"Part",
+				"PartnerClient"
+			],
+			[
+				"cart-",
+				"cart-total"
+			],
+			[
+				"config_",
+				"config_email"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"show",
+				"showItems"
+			],
+			[
+				"a",
+				"addClass"
+			],
+			[
+				"img",
+				"imgCont"
+			],
+			[
+				"remove",
+				"removeAttr"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"fff",
+				"fff"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"i",
+				"decimal"
+			],
+			[
+				"set",
+				"set_sess"
+			],
+			[
+				"to",
+				"token"
+			],
+			[
+				"podi",
+				"podio_password"
+			],
+			[
+				"podio",
+				"podio_auth"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"box",
+				"box-modal"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"modal",
+				"modal-body"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"menu",
+				"menu-name"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"eas",
+				"ease-in-out"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"chec",
+				"checked"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"foo",
+				"food-menu"
+			],
+			[
+				"inp",
+				"input-fields"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"in",
+				"info"
+			],
+			[
+				"intr",
+				"intro-header"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"text_r",
+				"text_rst"
+			],
+			[
+				"cu",
+				"customer_city"
+			],
+			[
+				"checkout",
+				"checkout-total-cart"
+			],
+			[
+				"button-",
+				"button-block"
+			],
+			[
+				"sli",
+				"slideDown"
+			],
+			[
+				"che",
+				"checkout"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"TEXT",
+				"text-transform"
+			],
+			[
+				"affix",
+				"affix"
+			],
+			[
+				"si",
+				"font-size"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"carouse",
+				"carousel-caption"
+			],
+			[
+				"ea",
+				"ease-in"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 75,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/repo/web-starter-kit/app/styles/main.scss",
+		"/D/repo/web-starter-kit/app/index.html",
+		"/D/repo/web-starter-kit/.tmp/styles/components/components.css",
+		"/D/repo/web-starter-kit/.tmp/styles/main.css",
+		"/D/repo/web-starter-kit/app/manifest.json",
+		"/D/repo/web-starter-kit/package.json",
+		"/D/repo/web-starter-kit/app/basic.html",
+		"/D/repo/web-starter-kit/app/styles/_h5bp.scss",
+		"/D/repo/globalalania/package.json",
+		"/D/repo/jiena/catalog/catalog/view/theme/default/template/module/gallery.tpl",
+		"/D/repo/jiena/catalog/catalog/controller/module/gallery.php",
+		"/D/repo/jiena/catalog/model/design/banner.php",
+		"/D/repo/jiena/catalog/controller/module/banner.php",
+		"/D/repo/jiena/catalog/view/theme/OPCA12072603/template/common/footer.tpl",
+		"/C/Users/Admin/Documents/projects/prime5/sftp-config.json",
+		"/D/repo/jiena/sftp-config.json",
+		"/D/repo/globalalania/app/index.html",
+		"/D/repo/globalalania/gulpfile.babel.js",
+		"/D/repo/globalalania/.gitignore",
+		"/C/Users/Admin/.ssh/id_rsa.pub",
+		"/C/Users/Admin/.ssh/known_hosts",
+		"/C/Users/Admin/.ssh/id_rsa.ppk.pub",
+		"/C/Users/Admin/.ssh/github_rsa.pub",
+		"/D/repo/globalalania/dist/scripts/main.min.js",
+		"/D/repo/scripts/main.min.js",
+		"/D/repo/globalalania/app/basic.html",
+		"/D/repo/globalalania/node_modules/gulp-subtree/index.js",
+		"/D/repo/globalalania/dist/index.html",
+		"/D/repo/globalalania/README.md",
+		"/D/repo/beautyplanet/app/index.html",
+		"/D/repo/beautyplanet/.gitignore",
+		"/D/repo/beautyplanet/package.json",
+		"/D/repo/beautyplanet/gulpfile.babel.js",
+		"/D/repo/beautyplanet/app/manifest.webapp",
+		"/D/repo/beautyplanet/dist/index.html",
+		"/D/repo/beautyplanet/list",
+		"/D/repo/beautyplanet/npm-debug.log",
+		"/D/repo/beautyplanet/node_modules/gulp-sass/package.json",
+		"/D/repo/beautyplanet/node_modules/gulp-sass/node_modules/node-sass/vendor/win32-x64-14/binding.node",
+		"/D/repo/beautyplanet/node_modules/gulp-sass/node_modules/node-sass/scripts/install.js",
+		"/C/Users/Admin/Documents/projects/bplanet/package.json",
+		"/C/Users/Admin/.gitconfig",
+		"/C/Users/Admin/Documents/projects/bplanet/gulpfile.babel.js",
+		"/C/Users/Admin/.bashrc",
+		"/C/Users/Admin/npm-debug.log",
+		"/C/Users/Admin/.profile",
+		"/C/Users/Admin/.gemrc",
+		"/C/Users/Admin/Documents/projects/planet/package.json",
+		"/C/Users/Admin/Documents/projects/planet/.travis.yml",
+		"/C/Users/Admin/Documents/projects/bplanet/CONTRIBUTING.md",
+		"/C/Users/Admin/Documents/projects/planet/gulpfile.js",
+		"/C/Users/Admin/Documents/projects/bplanet/config/deploy/production.rb",
+		"/C/Users/Admin/Documents/projects/bplanet/Capfile",
+		"/C/Users/Admin/Documents/projects/bplanet/Gemfile",
+		"/C/Users/Admin/Documents/projects/bplanet/config/deploy.rb",
+		"/C/Users/Admin/Documents/projects/bplanet/trace",
+		"/C/Users/Admin/Documents/projects/bplanet/dist/service-worker.js",
+		"/C/Users/Admin/Documents/projects/bplanet/dist/Capfile",
+		"/C/Users/Admin/AppData/Local/Temp/7zE9A41.tmp/deploy_sample.rb",
+		"/C/Users/Admin/Documents/projects/planet/node_modules/browser-sync/package.json",
+		"/C/Users/Admin/Documents/projects/planet/.jshintrc",
+		"/C/Users/Admin/Documents/projects/planet/.editorconfig",
+		"/C/Users/Admin/Documents/projects/planet/.gitattributes",
+		"/C/Users/Admin/Documents/projects/planet/.gitignore",
+		"/C/Users/Admin/Documents/projects/planet/.jscsrc",
+		"/C/Users/Admin/Documents/projects/planet/node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash._basevalues/package.json",
+		"/C/Users/Admin/AppData/Roaming/npm/node_modules/npm/npmrc",
+		"/C/Program Files/nodejs/node_modules/npm/npmrc",
+		"/C/Users/Admin/Downloads/jazzepha_podio.sql",
+		"/C/Users/Admin/Downloads/wp_posts.sql",
+		"/C/Users/Admin/Downloads/session.sql",
+		"/C/Users/Admin/Downloads/order.sql",
+		"/C/Users/Admin/Downloads/oc_product.sql",
+		"/C/Users/Admin/Downloads/evelweed_mix.sql",
+		"/C/Users/Admin/Downloads/evelweed_access.sql",
+		"/C/Users/Admin/Downloads/db39.valuehost.ru.sql",
+		"/C/Users/Admin/Downloads/edost.php",
+		"/C/Users/Admin/Downloads/2014-03-22_19-37-55_backup.sql",
+		"/C/Users/Admin/Downloads/market.tpl",
+		"/C/Users/Admin/Downloads/503.php",
+		"/L/trash/sites/admin/config.php",
+		"/C/Users/Admin/AppData/Local/Temp/7zEC0F0.tmp/start.sql",
+		"/C/Users/Admin/AppData/Local/Temp/7zE6450.tmp/config.php",
+		"/C/Users/Admin/AppData/Local/Temp/7zE10D5.tmp/index.html",
+		"/C/Users/Admin/AppData/Local/Temp/7zOAA84.tmp/tr-regen-thumbs.php",
+		"/L/trash/sites/contact/index.html",
+		"/L/trash/C.scn",
+		"/L/trash/evelweed1.fcl",
+		"/L/trash/evelweed.fcl",
+		"/L/trash/Doc_a853c2001e204a0d8dcd98bc3650ea9e.xml",
+		"/L/trash/selection_objects_05_09_2012.xml",
+		"/L/trash/README",
+		"/L/trash/htaccess",
+		"/L/trash/maps",
+		"/C/Users/Admin/AppData/Local/Temp/7zO3350.tmp/config.php",
+		"/C/Users/Admin/AppData/Local/Temp/7zOE0CD.tmp/config.php",
+		"/L/ps4/Generator/reflow.generate/package.json",
+		"/D/work/my-profile/index.php",
+		"/C/Users/Admin/Documents/projects/beauty/node_modules/apache-server-configs/dist/.htaccess",
+		"/C/Users/Admin/Documents/projects/beautyplanet/test.css",
+		"/C/Users/Admin/Downloads/evelweed/netmag-build-a-basic-responsive-site-with-css/demo/styles/main.css",
+		"/C/Users/Admin/Downloads/evelweed/netmag-build-a-basic-responsive-site-with-css/demo/demo.html",
+		"/C/Users/Admin/Documents/projects/beautyplanet/css/styles.css",
+		"/C/Users/Admin/Documents/projects/beautyplanet/index.htm",
+		"/C/Users/Admin/Documents/projects/beautyplanet/test.beautified.css",
+		"/C/Users/Admin/Documents/projects/prime5/dropbox.php",
+		"/C/Users/Admin/Documents/projects/beautyplanet/css/styles.beautified.css",
+		"/C/Users/Admin/Downloads/evelweed/netmag-build-a-basic-responsive-site-with-css/demo/scripts/respond.min.js",
+		"/C/Users/Admin/Desktop/lpbc.php",
+		"/C/Users/Admin/Documents/projects/beautyplanet/js/script.js",
+		"/C/Users/Admin/Documents/projects/beautyplanet/css/style.css",
+		"/C/Users/Admin/Documents/projects/beautyplanet/sftp-config.json",
+		"/C/Users/Admin/Documents/projects/vecher/sftp-config.json",
+		"/C/Users/Admin/Documents/projects/prime5/callcenter/css/styles.css",
+		"/C/Users/Admin/Documents/projects/prime5/callcenter/settings.php",
+		"/C/Users/Admin/Documents/projects/prime5/callcenter/index.php",
+		"/C/Users/Admin/Documents/projects/prime5/callcenter/js/main.js",
+		"/C/Users/Admin/Documents/projects/prime5/callcenter/sendmail.php",
+		"/C/Users/Admin/Documents/projects/prime5/callcenter/settings.ini",
+		"/C/Users/Admin/Documents/projects/prime5/callcenter/js/ru.min.js",
+		"/C/Users/Admin/Documents/projects/prime5/callcenter/css/styles.min.css",
+		"/C/Users/Admin/Documents/projects/prime5/callcenter/css/marketing.min.css",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 2/Packages/Minify/Minify.sublime-settings",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 2/Packages/User/Minify.sublime-settings",
+		"/C/Users/Admin/Documents/projects/prime5/callcenter/css/jquery.sidr.dark.min.css",
+		"/C/Users/Admin/Documents/projects/prime5/prime5.sublime-workspace",
+		"/C/Users/Admin/Documents/projects/prime5/prime5.sublime-project",
+		"/C/Users/Admin/Documents/projects/prime5/callcenter/css/marketing.css"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"caselogo",
+			"case/",
+			"cache",
+			"clear",
+			"imagemin",
+			"gulp-imagemin",
+			"dist",
+			"deploy",
+			"require",
+			"npm",
+			"media",
+			"logo",
+			"console",
+			"http://",
+			"delprod",
+			"obj",
+			"(),'",
+			"order[\"summary\"]",
+			"shippingcost",
+			"siteName",
+			"sitaName",
+			"li",
+			"center",
+			"\n    ",
+			"($",
+			"verianeta@gmail.com",
+			"loaderror",
+			"operatorId",
+			"console",
+			"object",
+			"99",
+			"products",
+			"required",
+			"global",
+			"</select></td>",
+			"bootstrap",
+			"oe_team_position",
+			"$categories = $this->model_catalog_category->getCategories(0);",
+			"$this->document->setTitle($category_info['seo_title']);",
+			"title",
+			"if (isset($tmp['tr",
+			"magnific",
+			"head",
+			"oe_main_slider",
+			"slider",
+			"menu",
+			"aq_block_1_menu_id",
+			"oe_team_position",
+			"oe_main_slider",
+			".splash-container",
+			"ribbon",
+			"infor",
+			"informations",
+			"information",
+			"informations",
+			"/home/e/",
+			"evelweed",
+			"fast_order_button",
+			".simplecheckout-block-heading",
+			"#simplecheckout_form .simplecheckout-button-block",
+			"simplecheckout",
+			"simplecheckout_payment",
+			"#simplecheckout_payment",
+			"simp",
+			"simple",
+			"none",
+			"phone",
+			".cart-total",
+			"cart",
+			"outline:1px solid #000;",
+			"heade",
+			"site",
+			"store",
+			"name",
+			"config_email",
+			"/home/c/clubphonru/i-mixshop/public_html",
+			"$mail = new Mail();",
+			"technomobi",
+			"technomobi.ru",
+			"mixgsm",
+			"/home/e/evelweed/mixgsm/public_html/",
+			"simplecheckout_payment",
+			"list-style: none",
+			"method",
+			"$emails = explode(',', $this->config->get('config_alert_emails'));",
+			"mail",
+			"home",
+			"header .lang",
+			".wpb_text_column ul li",
+			"@media",
+			".csstransforms .diamonds > li:nth-child(n+5)",
+			"strong",
+			"b {",
+			".social_networks_header",
+			"search",
+			"header #site_header.fixed .fixed_header",
+			".social_networks_header",
+			".row{\n	overflow:visible;\n}\n.row .row{\n	overflow:visible;\n	margin:0 15px;\n}\n",
+			"header #site_header #site_menu .main_menu>ul>li.has_sub>a, header #site_header #site_menu .main_menu>li.has_sub>a",
+			".row .row",
+			"min-width: 768px",
+			".box .box-content .box-product ul li .name",
+			"#header .links",
+			"#header #search",
+			"awesom",
+			"#header #search",
+			"header",
+			".header",
+			"header",
+			".cart",
+			".compare",
+			"header",
+			"category_text",
+			"image",
+			"addition",
+			"additio",
+			"script",
+			"button_c",
+			"'href'  => $this->url->link('product/category', 'path=' . $this->request->get['path'] . '_' . $result['category_id'] . $url)",
+			"categories",
+			"thumb",
+			"sold",
+			"a.button_c",
+			"display",
+			"list",
+			".product-info .image-additional",
+			"contact",
+			"$this->data['contact']"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"case/logo",
+			"http://www.hansfi.com/case",
+			"gem",
+			"95",
+			"/home/s/",
+			"sotoadmin",
+			"",
+			"/home/users2/k/kitay/domains/i-mixshop.ru",
+			"ya-o",
+			"summeet",
+			"skyler",
+			"portel",
+			"moby21",
+			"phone365",
+			"mobyonline",
+			"feelth",
+			"amuseonline",
+			"amuseonline.ru",
+			"technomobi",
+			"/home/users2/k/kitay/domains/technomobi.ru/",
+			"5/6",
+			"el_position=\"first last\"",
+			"5/6",
+			"flat_spb",
+			"flat_spb_address",
+			"flat_spb",
+			"flat_spb_address",
+			"flat_spb",
+			"flat_spb_address",
+			"flat",
+			"flat_spb",
+			"flat",
+			"font-size:30px;line-height:25px",
+			"width:19%",
+			"overflow:hidden"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".gitignore",
+					"settings":
+					{
+						"buffer_size": 75,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								56,
+								56
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 119.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/D/repo/global/global.sublime-project"
+			],
+			[
+				"	",
+				"/C/Users/Admin/Documents/projects/test.trade/test.trade.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true
+}
